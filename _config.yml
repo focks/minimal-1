@@ -34,12 +34,12 @@ links:
     url: /articles/
     #url: /articles/
   - title: Trabajos
-    url: /theme-setup/
+    url: /trabajos/
   - title: CV
     url: /cv/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  #~ - title: Made Mistakes
+    #~ url: http://mademistakes.com
+    #~ external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Madrid
