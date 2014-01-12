@@ -11,9 +11,9 @@ owner:
   bio:            "Describe your self."
   email:          pasoriano@sigdeletras.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        https://twitter.com/SIGdeletras
+  twitter:        SIGdeletras
   github:         
-  linkedin:       http://www.linkedin.com/in/patriciosorianocastro
+  linkedin:       patriciosorianocastro
         
   # For Google Authorship https://plus.google.com/authorship
   google_plus:  https://plus.google.com/+PatricioSorianoCastro  
