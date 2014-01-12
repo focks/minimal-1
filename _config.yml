@@ -31,8 +31,9 @@ links:
     url: /about/
   - title: Blog
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
+    #url: /articles/
+  - title: Trabajos
+    url: /trabajos/
   - title: CV
     url: /cv/
   - title: Made Mistakes
