@@ -1,25 +1,22 @@
 title:            SIGdeletras
 tagline:          A short tagline
-description:      Describe your website.
+description:      Tecnologías de Información Geográfica, Patrimonio y algo más.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Patricio Soriano
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
-  email:          your@email.com
+  email:          pasoriano@sigdeletras.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
+  twitter:        https://twitter.com/SIGdeletras
   github:         
-  linkedin:       
-  instagram:      
-  lastfm:         
-  tumblr:         
+  linkedin:       http://www.linkedin.com/in/patriciosorianocastro
+        
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:  https://plus.google.com/+PatricioSorianoCastro  
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -30,9 +27,9 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: Sobre mí
     url: /about/
-  - title: Articles
+  - title: Blog
     url: /articles/
   - title: Theme Setup
     url: /theme-setup/
@@ -43,7 +40,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Madrid
 future:      true
 pygments:    true
 markdown:    kramdown
