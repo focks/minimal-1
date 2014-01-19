@@ -29,8 +29,6 @@ bing_verify:
 # For external links add external: true
 links:
   - title: Sobre mí
-    url: /about/
-  - title: Sobre mí2
     url: /aboutme/
   - title: Blog
     url: /articles/
