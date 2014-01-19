@@ -4,12 +4,7 @@ title: Notas sobre la Jornada técnica provincial. Gestión geoespacial de las i
 description: 
 modified: {}
 category: articles
-tags: 
-  - Jornadas
-  - Diputación
-  - SIG
-  - EIEL
-  - Córdoba
+tags: [Jornadas, Diputación, SIG, EIEL, Córdoba]
 published: true
 comments: true
 ---
