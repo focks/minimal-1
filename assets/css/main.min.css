@@ -4,7 +4,8 @@ article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,su
 .site-name{
 	display:inline;
 	display:block;
-	float:left;
+	/*float:left;*/
+	/*float:rigth;*/
 	float:none;
 	width:83.33333333333334%;
 	margin-right:8.333333333333334%;
