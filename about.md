@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /about/index.html
-title: About me
+permalink: /about/
+title: Sobre mí
 tagline: Patricio Soriano :: SIGdeletras
 tags: [about, CV, Patricio Soriano, curriculum]
 ---
