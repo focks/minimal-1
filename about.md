@@ -1,9 +1,14 @@
 ---
 layout: page
 permalink: /about/
-title: Sobre mí
-tagline: Patricio Soriano :: SIGdeletras
+title: About the Theme
+tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, CV, Patricio Soriano, curriculum]
+modified: 9-9-2013
+image:
+  feature: texture-feature-02.jpg
+  credit: Texture Lovers
+  creditlink: http://texturelovers.com
 ---
 
 SIGdeletras es Patricio Soriano y Patricio Soriano es SIGdeletras.
