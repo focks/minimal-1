@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /about/
+permalink: /about/index.html
+description: "Algunos trabajos."
 title: About the Theme
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, CV, Patricio Soriano, curriculum]
