@@ -30,6 +30,8 @@ bing_verify:
 links:
   - title: Sobre mí
     url: /about/
+  - title: Sobre mí2
+    url: /aboutme/
   - title: Blog
     url: /articles/
     #url: /articles/
