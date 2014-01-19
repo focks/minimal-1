@@ -3,8 +3,8 @@ layout: post
 title: Información sobre BICs en el Atlas Digital de Tenerife
 date: 2011-09-06 11:19:09 UTC
 updated: 2011-09-06 11:19:09 UTC
-comments: false
-categories: canarias organismos patrimonio
+comments: true
+tags: [canarias, organismos, patrimonio]
 ---
 
 Según su portal web, el <a href="http://atlastenerife.es/portalweb/" target="_blank">Atlas Digital de Tenerife</a> este se define como *"un medio público interactivo para la difusión de los amplios acervos de información territorial gestionados por el Cabildo Insular de Tenerife y para el fomento de una 'cultura geográfica' y el conocimiento del territorio insular”.*
