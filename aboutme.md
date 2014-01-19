@@ -2,14 +2,16 @@
 layout: page
 permalink: /aboutme/index.html
 title: Sobre mí
-description: "Algunos trabajos."
+description: "Sobre mí"
 tags: [Jekyll, theme, responsive]
 image:
   feature: texture-feature-02.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
+
 SIGdeletras es Patricio Soriano y Patricio Soriano es SIGdeletras.
+
 
 **Licenciado en Geografía e Histori**a por la Universidad de Córdoba y con **estudios de Tercer Ciclo dentro del Programa “Técnicas de representación gráfica y diseño de la ingeniería y geomática”**, impartido por el departamentos de Ingeniería Gráfica e Ingeniería y Sistemas de Información Cartográfico de la Universidad de Córdoba e Ingeniería Rural de la Universidad de Almería.
 
