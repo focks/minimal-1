@@ -19,6 +19,8 @@ comments: true
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-4.79078471660614%2C37.88825623923123%2C-4.788022041320801%2C37.88934639660949&amp;layer=mapnik" style="border: 1px solid black"></iframe>
+
 
 El pasado día 5, en el Palacio de la Merced de Córdoba (Ver en Yelp) tuve la oportunidad de asistir a la “Jornada técnica provincial. Gestión geoespacial de las infraestructuras y equipamientos de la provincia de Córdoba. Información geográfica 2.0” organizadas por Empresa Provincial de Informática (Eprinsa) y la Diputación de Córdoba. Al final de la (intensa) jornada  y tras escuchar, sin descanso, el conjunto de las presentaciones  vinculados al uso de la Información Geográfica en la gestión municipal, mi sensación fue la de haber aprovechado bien el día y estar presente en la difusión pública de un proyecto con magníficos visos de futuro.
 
