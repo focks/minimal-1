@@ -35,9 +35,5 @@ Tengo la intuición de que no será la última vez que escriba sobre estas jorna
 
 Más información:
 
-* item pruena
-* item prueba
-* item prueba
-
 * [Nota institucional](http://www.dipucordoba.es/#/contenidos/29926/la_diputacion_informa_a_los_ayuntamientos_de_las_ventajas_del_servicio_de_inventario_digital_de_equipamientos_e_infraestructuras)
 * [Artículo en el Diario Córdoba](http://www.diariocordoba.com/noticias/cordobaprovincia/la-diputacion-informa-a-los-ayuntamientos-de-las-ventajas-del-servicio-de-inventario-digital_840492.html)
