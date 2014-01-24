@@ -21,7 +21,7 @@ El pasado día 5, en el Palacio de la Merced de Córdoba (Ver en Yelp) tuve la o
 
 Conozco desde hace tiempo los trabajos vinculados a las Tecnologías de Información Geográfica que viene desarrollando la Diputación de Córdoba , que tiene su expresión pública en el Geoportal de esta administración (http://www.dipucordoba.es/geoportal). Desde esta web, se puede también acceder al conjunto de servicios OGC de visualización y descarga de datos que  se encuentran incluidos en el nodo autonómico de la IDEAndalucía y en la IDE nacional. Tras la sesión del martes, tengo la sensación que el proyecto ha dado un gran salto y por el número de servicios y organismos provinciales que poco a poco se van sumando  al uso de la Información Geográfica digital creo que tienen unas estupendas perspectivas.
 
-IMAGEN
+<a href="http://www.flickr.com/photos/115384326@N07/12120226615/" title="20131106_jornadaseprinsa2 por Patricio Soriano, en Flickr"><img src="http://farm4.staticflickr.com/3727/12120226615_beb3f9c876.jpg" width="500" height="323" alt="20131106_jornadaseprinsa2"></a>
 
 Durante la mañana, escuchamos como los Sistemas de Información Geográfica tienen aplicación en la gestión de las Encuestas de Infraestructuras y Equipamientos Locales (EIEL), sus posibilidades para el inventario de luminaria orientado al ahorro energético (María Urbano), control de flotas de recogida de residuos (Sergio Velasco y Alejandro López de EPREMASA), geolocalización de expedientes urbanísticos (Javier Ponferrada), gestión de planeamiento urbanístico (Juan Carlos Cobos)  y otros proyectos futuros (ej. control de incendios).
 
