@@ -8,20 +8,13 @@ tags: [Jornadas, Diputación, SIG, EIEL, Córdoba]
 published: true
 comments: true
 ---
-<figure>
-	<a href="http://farm8.staticflickr.com/7351/9249099214_ca6d1c38cc.jpg"><img src="http://farm8.staticflickr.com/7351/9249099214_ca6d1c38cc.jpg"></a>
-
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
-</figure>
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-4.79078471660614%2C37.88825623923123%2C-4.788022041320801%2C37.88934639660949&amp;layer=mapnik" style="border: 1px solid black"></iframe>
-
 
 El pasado día 5, en el Palacio de la Merced de Córdoba (Ver en Yelp) tuve la oportunidad de asistir a la “Jornada técnica provincial. Gestión geoespacial de las infraestructuras y equipamientos de la provincia de Córdoba. Información geográfica 2.0” organizadas por Empresa Provincial de Informática (Eprinsa) y la Diputación de Córdoba. Al final de la (intensa) jornada  y tras escuchar, sin descanso, el conjunto de las presentaciones  vinculados al uso de la Información Geográfica en la gestión municipal, mi sensación fue la de haber aprovechado bien el día y estar presente en la difusión pública de un proyecto con magníficos visos de futuro.
 
 Conozco desde hace tiempo los trabajos vinculados a las Tecnologías de Información Geográfica que viene desarrollando la Diputación de Córdoba , que tiene su expresión pública en el Geoportal de esta administración (http://www.dipucordoba.es/geoportal). Desde esta web, se puede también acceder al conjunto de servicios OGC de visualización y descarga de datos que  se encuentran incluidos en el nodo autonómico de la IDEAndalucía y en la IDE nacional. Tras la sesión del martes, tengo la sensación que el proyecto ha dado un gran salto y por el número de servicios y organismos provinciales que poco a poco se van sumando  al uso de la Información Geográfica digital creo que tienen unas estupendas perspectivas.
 
-<a href="http://www.flickr.com/photos/115384326@N07/12120226615/" title="20131106_jornadaseprinsa2 por Patricio Soriano, en Flickr"><img src="http://farm4.staticflickr.com/3727/12120226615_beb3f9c876.jpg" width="500" height="323" alt="20131106_jornadaseprinsa2"></a>
+<a href="http://www.flickr.com/photos/115384326@N07/12120226615/" title="20131106_jornadaseprinsa2 por Patricio Soriano, en Flickr"><img src="http://farm4.staticflickr.com/3727/12120226615_beb3f9c876.jpg" width="100%"  alt=""></a>
+
 
 Durante la mañana, escuchamos como los Sistemas de Información Geográfica tienen aplicación en la gestión de las Encuestas de Infraestructuras y Equipamientos Locales (EIEL), sus posibilidades para el inventario de luminaria orientado al ahorro energético (María Urbano), control de flotas de recogida de residuos (Sergio Velasco y Alejandro López de EPREMASA), geolocalización de expedientes urbanísticos (Javier Ponferrada), gestión de planeamiento urbanístico (Juan Carlos Cobos)  y otros proyectos futuros (ej. control de incendios).
 
