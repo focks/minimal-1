@@ -14,6 +14,9 @@ published: true
 comments: true
 ---
 
+<a href="http://www.flickr.com/photos/115384326@N07/12121093903/" title="jornadas_giseiel por Patricio Soriano, en Flickr"><img src="http://farm4.staticflickr.com/3695/12121093903_59a21dce7f.jpg" width="500" height="250" alt="jornadas_giseiel"></a>
+
+
 El pasado día 5, en el Palacio de la Merced de Córdoba ([Ver en Yelp](http://www.sigdeletras.com/%20http:/www.yelp.es/biz/diputaci%C3%B3n-de-c%C3%B3rdoba-c%C3%B3rdoba%20)) tuve la oportunidad de asistir a la **“Jornada técnica provincial. Gestión geoespacial de las infraestructuras y equipamientos de la provincia de Córdoba. Información geográfica 2.0” organizadas por Empresa Provincial de Informática (Eprinsa) y la Diputación de Córdoba**. Al final de la (intensa) jornada  y tras escuchar, sin descanso, el conjunto de las presentaciones  vinculados al uso de la Información Geográfica en la gestión municipal, mi sensación fue la de haber aprovechado bien el día y estar presente en la difusión pública de un proyecto con magníficos visos de futuro.
 
 Conozco desde hace tiempo los trabajos vinculados a las Tecnologías de Información Geográfica que viene desarrollando la Diputación de Córdoba , que tiene su expresión pública en el **Geoportal** de esta administración [http://www.dipucordoba.es/geoportal](http://www.dipucordoba.es/geoportal). Desde esta web, se puede también acceder al conjunto de servicios OGC de visualización y descarga de datos que  se encuentran incluidos en el nodo autonómico de la IDEAndalucía y en la IDE nacional. Tras la sesión del martes, tengo la sensación que el proyecto ha dado un gran salto y por el número de servicios y organismos provinciales que poco a poco se van sumando  al uso de la Información Geográfica digital creo que tienen unas estupendas perspectivas.
