@@ -1,6 +1,6 @@
 ---
 layout: post
-title: De iglesias a  monumentos. "Cartografiando las cosas antiguas" 2 parte
+title: "De iglesias a  monumentos. \"Cartografiando las cosas antiguas\" 2 parte"
 description: null
 modified: {}
 category: articles
@@ -13,9 +13,10 @@ published: true
 comments: true
 ---
 
-Tras instalar [OSMAnd en Android](https://play.google.com/store/apps/details?id=net.osmand) como navegador GPS y consultar la información histórico-patrimonial que ofrece [OpenStreetMap (OMS) para Córdoba](http://www.openstreetmap.org/?lat=37.883160000000004&lon=-4.776015&zoom=16&layers=M), me di cuenta que los datos sobre patrimonio arquitectónico en Córdoba eran muy escasos. Curiosamente, en la cartografía disponible, estaban representadas un gran número de iglesias en la zona del casco histórico (etiquetas en el modelo de datos de OMS como [amenity=place of worship](http://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship) que además de lugares de culto, son bienes patrimoniales catalogados (BICs, Plan Especial del Casco, etc), declarados como monumentos y suficientemente conocidos.  
+Tras instalar  [OSMAnd en Android](https://play.google.com/store/apps/details?id=net.osmand) como navegador GPS y consultar la información histórico-patrimonial que ofrece [OpenStreetMap (OMS) para Córdoba](http://www.openstreetmap.org/?lat=37.883160000000004&lon=-4.776015&zoom=16&layers=M), me di cuenta que los datos sobre patrimonio arquitectónico en Córdoba eran muy escasos. Curiosamente, en la cartografía disponible, estaban representadas un gran número de iglesias en la zona del casco histórico (etiquetas en el modelo de datos de OMS como [amenity=place of worship](http://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship) que además de lugares de culto, son bienes patrimoniales catalogados (BICs, Plan Especial del Casco, etc), declarados como monumentos y suficientemente conocidos.  
   
-Los datos existentes sobre las iglesias están representados gráficamente como puntos o áreas. Al ser más numerosos los representados como áreas decidí empezar con ellas e ir añadiendo  la [clave OMS](http://wiki.openstreetmap.org/wiki/ES:Map_Features) correspondiente que los definiera como monumentos [historic=monument](http://wiki.openstreetmap.org/wiki/Tag:historic=monument)
+Los datos existentes sobre las iglesias están representados gráficamente como puntos o áreas. Al ser más numerosos los representados como áreas decidí empezar con ellas e ir añadiendo  la [clave OMS](http://wiki.openstreetmap.org/wiki/ES:Map_Features) correspondiente que los definiera como monumentos [historic=monument](http://wiki.openstreetma
+p.org/wiki/Tag:historic=monument)
   
 Los resultados, respecto a su representación, no fueron estéticamente muy satisfactorios.  No queda bien diferenciados en la renderización por defecto de OSM, así que estoy pensando en añadirlos como puntos, que sí tienen una simbología clara, o revisar otras claves como por ejemplo_ buiding=yes_.  
   
@@ -28,12 +29,13 @@ Resultado en ITO Map
 En relación a las herramientas, para consultar y editar datos he utilizando [JOSM](http://josm.openstreetmap.de/). Aunque la interfaz es mucho más dura, JOSM se parece más las herramientas SIG con los que estoy acostumbrado a
 trabajar.  Además prefiero trabajar en local  y subir los datos que hacerlo “en línea” como lo hace Potlatch. 
   
-En vez de descargarme toda la información cartográfica de Córdoba, he utilizado [XAPI](http://open.mapquestapi.com/xapi/) para obtener dos ficheros XML filtrados por coordenadas (bbox=-4.88886,37.81567,-4.61421,37.93762 o lo que es lo mismo el área del casco histórico ), claves (_amenity=place of worship_) y tipos de geometrías (_node_ y _ways_) para poder editarlos en local.  
+En vez de descargarme toda la información cartográfica de Córdoba, he utilizado [XAPI](http://open.mapquestapi.com/xapi/) para obtener dos ficheros XML filtrados por coordenadas (bbox=-4.88886,37.81567,-4.61421,37.93762 o lo
+que es lo mismo el área del casco histórico ), claves (_amenity=place of worship_) y tipos de geometrías (_node_ y _ways_) para poder editarlos en local.  
   
 
-(http://4.bp.blogspot.com/NNAbmgnhtc/UTibkcls7GI/AAAAAAAAAfA/BXVePoTjtVo/s320/07-03-2013+14-50-40.png)
+(http://4.bp.blogspot.com/-ZNNAbmgnhtc/UTibkcls7GI/AAAAAAAAAfA/BXVePoTjtVo/s320/07-03-2013+14-50-40.png)
 
-Capas XML obtenidas con XAPI y cargadas en JOSM 
+Capas XML optenidas con XAPI y cargadas en JOSM 
   
 Tras una revisión de los datos, ya que no todos los lugares de culto estaban en la zona del caso o eran bienes patrimoniales, a las 24 iglesias resultantes se le añadió la clave _Historic=monument_.  Este dato está sacado de wikis varias, bibliografía, catálogos monumentales, pero principalmente de mis propios conocimiento (para algo debería servir la carrera digo yo).  
   
