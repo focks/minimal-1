@@ -5,18 +5,15 @@ description:
 modified: {}
 category: articles
 tags: 
-  - carmona
-  - cartografía histórica
-  - formación
-  - recursos
-image: 
-  feature: "jornadaseiel.jpg"
-  credit: Texture Lovers
-  creditlink: "http://texturelovers.com"
+  - shape
+  - cad
+  - dfx
+  - etiquetado
 published: true
 comments: true
 ---
- En varias ocasiones me han preguntado cómo pasar los atributos de fichero shape a anotaciones en un fichero CAD. Hace tiempo yo mismo realicé varias consultas en foros de SIG opensource, en concreto gvSIG, pero sin solución. En gvSIG, Kosmo y Qgis probé a editar los  atributos de capas de etiquetas convertidas a puntos  para que se ajustara a los campos que propios de un fichero DXF. Tras la exportación a tipo CAD el resultado fue nulo, al menos al intentar abrirlo con software LibreCAD.
+
+En varias ocasiones me han preguntado cómo pasar los atributos de fichero shape a anotaciones en un fichero CAD. Hace tiempo yo mismo realicé varias consultas en foros de SIG opensource, en concreto gvSIG, pero sin solución. En gvSIG, Kosmo y Qgis probé a editar los  atributos de capas de etiquetas convertidas a puntos  para que se ajustara a los campos que propios de un fichero DXF. Tras la exportación a tipo CAD el resultado fue nulo, al menos al intentar abrirlo con software LibreCAD.
 
 En su día, mi problema se solucionó porque en mi puesto de trabaja tenían licencias de Geomedia y esta conversión de shape a CAD con anotaciones funcionaba bastante bien. Sé también que con ArcGIS este trabajo se realiza sin problemas.
 

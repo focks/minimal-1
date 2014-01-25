@@ -9,10 +9,6 @@ tags:
   - cartografía histórica
   - formación
   - recursos
-image: 
-  feature: "jornadaseiel.jpg"
-  credit: Texture Lovers
-  creditlink: "http://texturelovers.com"
 published: true
 comments: true
 ---

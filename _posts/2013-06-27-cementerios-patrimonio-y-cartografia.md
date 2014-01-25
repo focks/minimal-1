@@ -10,10 +10,6 @@ tags:
   - cartografía
   - visores
   - información geográfica
-image: 
-  feature: "jornadaseiel.jpg"
-  credit: Texture Lovers
-  creditlink: "http://texturelovers.com"
 published: true
 comments: true
 ---
