@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cómo convertir los atributos de un shape a textos CAD
+title: De iglesias a  monumentos. "Cartografiando las cosas antiguas" 2 parte
 description: null
 modified: {}
 category: articles
@@ -13,7 +13,7 @@ published: true
 comments: true
 ---
 
-Tras instalar  [OSMAnd en Android](https://play.google.com/store/apps/details?id=net.osmand) como navegador GPS y consultar la información histórico-patrimonial que ofrece [OpenStreetMap (OMS) para Córdoba](http://www.openstreetmap.org/?lat=37.883160000000004&lon=-4.776015&zoom=16&layers=M), me di cuenta que los datos sobre patrimonio arquitectónico en Córdoba eran muy escasos. Curiosamente, en la cartografía disponible, estaban representadas un gran número de iglesias en la zona del casco histórico (etiquetas en el modelo de datos de OMS como [amenity=place of worship](http://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship) que además de lugares de culto, son bienes patrimoniales catalogados (BICs, Plan Especial del Casco, etc), declarados como monumentos y suficientemente conocidos.  
+Tras instalar [OSMAnd en Android](https://play.google.com/store/apps/details?id=net.osmand) como navegador GPS y consultar la información histórico-patrimonial que ofrece [OpenStreetMap (OMS) para Córdoba](http://www.openstreetmap.org/?lat=37.883160000000004&lon=-4.776015&zoom=16&layers=M), me di cuenta que los datos sobre patrimonio arquitectónico en Córdoba eran muy escasos. Curiosamente, en la cartografía disponible, estaban representadas un gran número de iglesias en la zona del casco histórico (etiquetas en el modelo de datos de OMS como [amenity=place of worship](http://wiki.openstreetmap.org/wiki/Tag:amenity=place_of_worship) que además de lugares de culto, son bienes patrimoniales catalogados (BICs, Plan Especial del Casco, etc), declarados como monumentos y suficientemente conocidos.  
   
 Los datos existentes sobre las iglesias están representados gráficamente como puntos o áreas. Al ser más numerosos los representados como áreas decidí empezar con ellas e ir añadiendo  la [clave OMS](http://wiki.openstreetmap.org/wiki/ES:Map_Features) correspondiente que los definiera como monumentos [historic=monument](http://wiki.openstreetmap.org/wiki/Tag:historic=monument)
   
