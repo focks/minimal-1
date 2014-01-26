@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 El próximo 23 de octubre tendrá lugar en la Universidad de Córdoba (a la que espero poder asistir) la presentación de la [**Fototeca Aérea Digital de Andalucía (FADA)**](http://www.juntadeandalucia.es/institutodeestadisticaycartografia/fototeca/), aplicación web para la descarga y consulta gratuita de fotografías aéreas del territorio andaluz. Desde la aplicación se pueden consultar un total **120.316 fotografías aéreas** en formato digital, georreferenciadas, tomadas entre entre los años **1980 a 2011** utilizados de base para realizar la cartografía topográfica oficial.
