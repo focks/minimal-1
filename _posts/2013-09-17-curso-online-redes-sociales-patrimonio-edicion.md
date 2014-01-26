@@ -21,7 +21,7 @@ Me agrada poder informaros que del  9 y el 30 de octubre formaré parte como pro
 Hago referencia a la presentación del curso que se incluye en el programa ya que creo que expone con claridad la finalidad de esta acción formativa on-line:
  
  
-**Las redes sociales son actualmente una de las principales formas de comunicación en Internet. En el caso de instituciones culturales, encargadas de la difusión de nuestro Patrimonio, su inmersión en este mundo se hace imprescindible como medida de avance, mejora y conexión con la sociedad.**
+*Las redes sociales son actualmente una de las principales formas de comunicación en Internet. En el caso de instituciones culturales, encargadas de la difusión de nuestro Patrimonio, su inmersión en este mundo se hace imprescindible como medida de avance, mejora y conexión con la sociedad.*
  
  
 A través de las redes, el propio Patrimonio se acerca a la sociedad haciéndola partícipe de sus valores. Es aquí es donde entra la figura del comunicador cultural, que mediante el correcto uso de las herramientas disponibles, debe hacer suya la idea de la relevancia que tiene el Patrimonio, de su difusión y de la necesidad de la implicación de la ciudadanía. Por tanto, las instituciones deben aprovechar las posibilidades de las Nuevas Tecnologías de la Información y Comunicación para, por una parte, la difusión y el diálogo de las personas con su Patrimonio, y por otra obtener elementos eficaces para su correcta gestión.
