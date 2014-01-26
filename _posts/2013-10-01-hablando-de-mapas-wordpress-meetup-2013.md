@@ -1,5 +1,17 @@
 ---
-published: false
+layout: post
+title: Hablando de mapas en las III Jornadas de Wordpress de Córdoba. Crónica y algunas notas
+description: null
+modified: {}
+category: articles
+tags: 
+  - meetup
+  - charla
+  - Córdoba
+  - Wordpress
+  - Youtube
+published: true
+comments: true
 ---
 
 <a href="http://www.flickr.com/photos/115384326@N07/12147578043/" title="mapas_wp por Patricio Soriano, en Flickr"><img src="http://farm8.staticflickr.com/7382/12147578043_3acab64c16.jpg" width="500" height="250" alt="mapas_wp"></a>
