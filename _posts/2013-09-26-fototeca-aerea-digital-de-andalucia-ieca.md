@@ -1,7 +1,18 @@
 ---
+layout: post
+title: Fototeca Aérea Digital de Andalucía - IECA
+description: 
+modified: {}
+category: articles
+tags: 
+  - Información Geográfica
+  - Fotografía aérea
+  - Andalucía
+  - IECA
+  - Fototeca
 published: true
+comments: true
 ---
-
 El próximo 23 de octubre tendrá lugar en la Universidad de Córdoba (a la que espero poder asistir) la presentación de la [**Fototeca Aérea Digital de Andalucía (FADA)**](http://www.juntadeandalucia.es/institutodeestadisticaycartografia/fototeca/), aplicación web para la descarga y consulta gratuita de fotografías aéreas del territorio andaluz. Desde la aplicación se pueden consultar un total **120.316 fotografías aéreas** en formato digital, georreferenciadas, tomadas entre entre los años **1980 a 2011** utilizados de base para realizar la cartografía topográfica oficial.
 La fotografía aérea como **recurso para a investigación** tiene una larga trayectoria. Del uso de pares imágenes con lentes estereoscópicas para trabajos previos a la prospección arqueológica, hemos pasado a contar con esta información en formato digital, georeferenciada y ortorectificada y explotada mediante Sistemas de Información Geográfica.
 
