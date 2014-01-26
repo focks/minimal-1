@@ -25,7 +25,7 @@ El viernes por la tarde tendrá lugar  la sesión de  Talleres, que lamentableme
 
 Seguro que, al igual que el año pasado, la organización del evento es impecable y que las dos sesiones se desarrollarán en un ambiente muy agradable que facilitará el aprendizaje por parte de los asistentes de varios aspectos relacionados con WP.
 
-En mi caso, **presentaré lla ponencia titulada “Mapas en Wordpress” el sábado 28 a las 10**. La charla se centrará en la exposición  y análisis de las posibilidades que tiene Wordpress para incluir mapas ya bien sea mediante el uso de APIS como de algunos plugins que he analizado.
+En mi caso, **presentaré la ponencia titulada “Mapas en Wordpress” el sábado 28 a las 10**. La charla se centrará en la exposición  y análisis de las posibilidades que tiene Wordpress para incluir mapas ya bien sea mediante el uso de APIS como de algunos plugins que he analizado.
 
 Os dejo la presentación.
 <iframe src="http://www.slideshare.net/slideshow/embed_code/26625000" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/PatricioSoriano/mapas-en-wordpress" title="Mapas en Wordpress" target="_blank">Mapas en Wordpress</a> </strong> from <strong><a href="http://www.slideshare.net/PatricioSoriano" target="_blank">Patricio Soriano</a></strong> </div>
