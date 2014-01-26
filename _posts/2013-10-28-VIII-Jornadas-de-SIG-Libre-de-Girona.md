@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIII Jornadas de SIG Libre de Girona
-description: 
+description: null
 modified: {}
 category: articles
 tags: 
@@ -15,9 +15,9 @@ comments: true
 <a href="http://www.flickr.com/photos/115384326@N07/12121427764/" title="jornadas_girona por Patricio Soriano, en Flickr"><img src="http://farm6.staticflickr.com/5506/12121427764_856a5f869d.jpg" width="500" height="250" alt="jornadas_girona"></a>
 
 
-Sobre las Jornadas de SIG Libre que anualmente tienen lugar en Girona, ya hemos tenido la oportunidad de hablar en la vieja etapa de SIGdeletras. Por regla general, junto a gran cantidad de potencias, póster y talleres, siempre cae alguna charla relacionada con el Patrimonio.
+Sobre las [**Jornadas de SIG Libre**](http://www.sigte.udg.edu/jornadassiglibre/) que anualmente tienen lugar en Girona, ya hemos tenido la oportunidad de hablar en la vieja etapa de SIGdeletras. Por regla general, junto a gran cantidad de potencias, póster y talleres, siempre cae alguna charla relacionada con el Patrimonio.
 
-Copio y pego el correo que me ha enviado Lluís Vicens (@lluisvicens) de la organización, informando sobre fechas, programas y otras cuestiones. Creo que la mejor forma de darle publicidad es hacer una entrada con estos datos.
+Copio y pego el correo que me ha enviado **Lluís Vicens** ([@lluisvicens](https://twitter.com/lluisvicens)) de la organización, informando sobre fechas, programas y otras cuestiones. Creo que la mejor forma de darle publicidad es hacer una entrada con estos datos.
 
 ...
 
